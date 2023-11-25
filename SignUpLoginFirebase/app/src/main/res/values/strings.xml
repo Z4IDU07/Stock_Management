@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignUp Login Firebase</string>
+    <string name="login">Login</string>
+</resources>
